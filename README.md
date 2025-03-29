@@ -2,8 +2,6 @@
 
 A Web App to perform sentiment analysis on tweets. 
 
-App is deployed in Heroku, click the link to access it : [Open in Heroku](https://toDeploy/) 
-
 ## Summary
 
 Natural Language Processing (NLP): The discipline of computer science, artificial intelligence and linguistics that is concerned with the creation of computational models that process and understand natural language. These include: making the computer understand the semantic grouping of words (e.g. cat and dog are semantically more similar than dog and spoon), text to speech, language translation and many more
